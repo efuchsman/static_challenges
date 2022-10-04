@@ -1,0 +1,93 @@
+.header-div {
+  background-color: #AA0101;
+  height: 60px;
+}
+
+.header2-div {
+  background-color: #333333;
+  height: 50px;
+}
+
+.title-white-text {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  padding-top: 16px;
+  margin-left: 20px;
+}
+
+.white-text {
+  color: white;
+  font-size: 14px;
+  position: relative;
+  bottom: 25%;
+}
+
+.more-links {
+  position: relative;
+  top: 30%;
+}
+
+.link {
+  margin-left: 25px;
+}
+
+.big-image {
+  height: 450px;
+  float: left;
+  margin-left: 20px;
+}
+
+.small-image {
+  height: 200px;
+  width: 300px;
+  margin-bottom: 50px;
+}
+
+.right-side {
+  float: right;
+  margin-right: 20px;
+}
+
+.content-section {
+  margin-top: 20px;
+  display: flex;
+}
+
+.right-column {
+  margin-right: 20px;
+  flex: 30%;
+}
+
+.left-column {
+  flex: 70%;
+  padding: 20px;
+}
+
+.title-black-text {
+  color: black;
+  font-weight: bold;
+  font-size: 24px;
+  clear: both;
+}
+
+.section-format {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 40px;
+
+}
+
+.location-headers {
+  font-size: 18;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.footer {
+  background-color: #333333;
+  height: 50px;
+  color: white;
+  padding: 30px;
+}
